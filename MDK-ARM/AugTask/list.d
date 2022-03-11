@@ -1,0 +1,12 @@
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+augtask\list.o: D:\Files\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+augtask\list.o: D:\Files\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+augtask\list.o: D:\Files\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+augtask\list.o: ../Core/Inc/FreeRTOSConfig.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+augtask\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
